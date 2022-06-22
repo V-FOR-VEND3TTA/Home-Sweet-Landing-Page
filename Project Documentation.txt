@@ -1,0 +1,34 @@
+Landing Page using Django
+
+Adapt or Die. This is what should come to mind whent thinking about your ecommerce business.
+If you aren't innovating and showing up in front of your customers on a daily, you are slowly dying.
+
+We leverage digital media to help grow your business and transform it into a powerhouse in your niche.
+
+Services offered
+1. Market Research
+2. Web Design (Take care of your home base)
+3. Web Development
+4. SEO
+5. Paid Advertising
+
+
+Our Methods
+1. Market
+2. Paid
+3. Paid
+4. Paid
+5. 
+
+About Us
+- Founder image and team
+
+Client Testimonials             
+
+Contact Us
+
+
+
+1. Select & Buy a template
+2. Configure Django project
+3. 
